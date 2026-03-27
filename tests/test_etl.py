@@ -11,17 +11,14 @@ import pytest
 
 def test_transform_filters_cancelled():
     """Create test DataFrames with a cancelled order. Confirm it's excluded."""
-    # TODO: Implement
-    pass
+    pytest.fail("Not implemented — write your test here")
 
 
 def test_transform_filters_suspicious_quantity():
     """Create test DataFrames with quantity > 100. Confirm it's excluded."""
-    # TODO: Implement
-    pass
+    pytest.fail("Not implemented — write your test here")
 
 
 def test_validate_catches_nulls():
     """Create a DataFrame with null customer_id. Confirm validate() raises ValueError."""
-    # TODO: Implement
-    pass
+    pytest.fail("Not implemented — write your test here")
