@@ -85,7 +85,7 @@ def main():
     # 2. Extract
     # 3. Transform
     # 4. Validate
-    # 5. Load to customer_summary table and output/customer_analytics.csv
+    # 5. Load to customer_analytics table and output/customer_analytics.csv
     pass
 
 
